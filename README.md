@@ -7,7 +7,7 @@ This repository contains two projects demonstrating the use of semantic search a
 This project exemplifies the use of semantic search to generate answers. It includes an example of the process of preparing data, embedding indexes for semantic search, and generating answers.
 
 ### Documentation
-For a detailed step-by-step explanation of the development process, please refer to the PDF file: [CS589_week10_hw4_q2_19679_AdemiltonMarcelo_DaCruzNunes.pdf](path/to/your/pdf/CS589_week10_hw4_q2_19679_AdemiltonMarcelo_DaCruzNunes.pdf).
+For a detailed step-by-step explanation of the development process, please refer to the PDF file: [CS589_week10_hw4_q2_19679_AdemiltonMarcelo_DaCruzNunes.pdf](Generating_Answers/CS589_week10_hw4_q2_19679_AdemiltonMarcelo_DaCruzNunes.pdf).
 
 ### Features
 - Data preparation for semantic search
@@ -19,7 +19,7 @@ For a detailed step-by-step explanation of the development process, please refer
 This project demonstrates the use of Rerank technology to enhance the results of key search and semantic search. It provides examples of key search and semantic search in a Dense Retrieval setup, aiming to uncover insights into how Rerank technology improves information retrieval.
 
 ### Documentation
-For a comprehensive explanation of the steps taken in this project, please refer to the PDF file: [CS589_week10_hw3_q1_19679_AdemiltonMarcelo_DaCruzNunes.pdf](path/to/your/pdf/CS589_week10_hw3_q1_19679_AdemiltonMarcelo_DaCruzNunes.pdf).
+For a comprehensive explanation of the steps taken in this project, please refer to the PDF file: [CS589_week10_hw3_q1_19679_AdemiltonMarcelo_DaCruzNunes.pdf](Keyword_and_Semantic_Searches_with_ReRank/CS589_week10_hw3_q1_19679_AdemiltonMarcelo_DaCruzNunes.pdf).
 
 ### Features
 - Key search implementation
